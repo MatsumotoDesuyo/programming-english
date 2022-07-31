@@ -1,0 +1,122 @@
+[
+    {
+        "name": "API",
+        "description": "Application Programming Interfaceのこと"
+    },
+    {
+        "name": "CI",
+        "description": "Continuous Integrationのこと"
+    },
+    {
+        "name": "CLI",
+        "description": "Command Line Interfaceのこと"
+    },
+    {
+        "name": "CPU",
+        "description": "Central Processing Unitのこと"
+    },
+    {
+        "name": "CSS",
+        "description": "Cascading Style Sheetのこと"
+    },
+    {
+        "name": "DNS",
+        "description": "Domain Name Systemのこと"
+    },
+    {
+        "name": "DOM",
+        "description": "Document Object Modelのこと"
+    },
+    {
+        "name": "HTML",
+        "description": "HyperText Markup Languageのこと"
+    },
+    {
+        "name": "HTTP",
+        "description": "HyperText Transfer Protocolのこと"
+    },
+    {
+        "name": "HTTPS",
+        "description": "HyperText Transfer Protocol Secureのこと"
+    },
+    {
+        "name": "IDE",
+        "description": "Integrated Development Environmentのこと"
+    },
+    {
+        "name": "IE",
+        "description": "Id Est（ラテン語で「つまり」）、Internet Explorerのこと"
+    },
+    {
+        "name": "IO",
+        "description": "Input/Outputのこと"
+    },
+    {
+        "name": "IP",
+        "description": "Internet Protocolのこと"
+    },
+    {
+        "name": "JSON",
+        "description": "JavaScript Object Notationのこと"
+    },
+    {
+        "name": "NFC",
+        "description": "Near Field Communicationのこと"
+    },
+    {
+        "name": "OS",
+        "description": "Operating Systemのこと"
+    },
+    {
+        "name": "RE",
+        "description": "Regular Expressionのこと"
+    },
+    {
+        "name": "RGB",
+        "description": "Red Green Blueのこと"
+    },
+    {
+        "name": "SDK",
+        "description": "Software Development Kitのこと"
+    },
+    {
+        "name": "SQL",
+        "description": "Structured Query Languageのこと"
+    },
+    {
+        "name": "SSH",
+        "description": "Secure SHellのこと"
+    },
+    {
+        "name": "SSL",
+        "description": "Secure Sockets Layerのこと"
+    },
+    {
+        "name": "UI",
+        "description": "User Interfaceのこと"
+    },
+    {
+        "name": "URI",
+        "description": "Uniform Resource Identifierのこと"
+    },
+    {
+        "name": "URL",
+        "description": "Uniform Resource Locatorのこと"
+    },
+    {
+        "name": "VM",
+        "description": "Virtual Machineのこと"
+    },
+    {
+        "name": "WIP",
+        "description": "Work In Progress（作業中）のこと"
+    },
+    {
+        "name": "WWW",
+        "description": "World Wide Webのこと"
+    },
+    {
+        "name": "XML",
+        "description": "eXtensible Markup Languageのこと"
+    }
+]

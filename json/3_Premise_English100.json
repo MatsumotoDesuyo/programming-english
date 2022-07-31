@@ -1,0 +1,502 @@
+[
+    {
+        "name": "action",
+        "a": "名詞",
+        "description": "アクション、操作"
+    },
+    {
+        "name": "activity",
+        "a": "名詞",
+        "description": "アクティビティー、活動"
+    },
+    {
+        "name": "add",
+        "a": "動詞",
+        "description": "追加する"
+    },
+    {
+        "name": "address",
+        "a": "名詞",
+        "description": "アドレス、住所"
+    },
+    {
+        "name": "agree",
+        "a": "動詞",
+        "description": "同意する"
+    },
+    {
+        "name": "area",
+        "a": "名詞",
+        "description": "領域、エリア"
+    },
+    {
+        "name": "below",
+        "a": "副詞",
+        "description": "下記に"
+    },
+    {
+        "name": "body",
+        "a": "名詞",
+        "description": "本体、本文"
+    },
+    {
+        "name": "break",
+        "a": "動詞",
+        "description": "中断する"
+    },
+    {
+        "name": "build",
+        "a": "動詞／名詞",
+        "description": "構築する／ビルド"
+    },
+    {
+        "name": "button",
+        "a": "名詞",
+        "description": "ボタン"
+    },
+    {
+        "name": "call",
+        "a": "動詞",
+        "description": "呼び出す"
+    },
+    {
+        "name": "change",
+        "a": "動詞",
+        "description": "変更する"
+    },
+    {
+        "name": "check",
+        "a": "動詞",
+        "description": "確認する、チェックする"
+    },
+    {
+        "name": "child",
+        "a": "名詞",
+        "description": "子"
+    },
+    {
+        "name": "choose",
+        "a": "動詞",
+        "description": "選択する"
+    },
+    {
+        "name": "class",
+        "a": "名詞",
+        "description": "クラス"
+    },
+    {
+        "name": "clean",
+        "a": "形容詞／動詞",
+        "description": "きれいな／きれいにする"
+    },
+    {
+        "name": "close",
+        "a": "動詞",
+        "description": "閉じる"
+    },
+    {
+        "name": "compare",
+        "a": "動詞",
+        "description": "比較する"
+    },
+    {
+        "name": "complete",
+        "a": "動詞／形容詞",
+        "description": "完了する／完全な"
+    },
+    {
+        "name": "copy",
+        "a": "動詞／名詞",
+        "description": "コピーする／コピー"
+    },
+    {
+        "name": "correct",
+        "a": "形容詞／動詞",
+        "description": "正確な／訂正する"
+    },
+    {
+        "name": "create",
+        "a": "動詞",
+        "description": "作成する"
+    },
+    {
+        "name": "describe",
+        "a": "動詞",
+        "description": "説明する"
+    },
+    {
+        "name": "description",
+        "a": "名詞",
+        "description": "説明"
+    },
+    {
+        "name": "detail",
+        "a": "名詞",
+        "description": "詳細"
+    },
+    {
+        "name": "email",
+        "a": "名詞／動詞",
+        "description": "メール／メールを送る"
+    },
+    {
+        "name": "event",
+        "a": "名詞",
+        "description": "イベント、出来事"
+    },
+    {
+        "name": "example",
+        "a": "名詞",
+        "description": "例"
+    },
+    {
+        "name": "extra",
+        "a": "形容詞",
+        "description": "余分な、追加の"
+    },
+    {
+        "name": "false",
+        "a": "形容詞",
+        "description": "誤りの、偽の"
+    },
+    {
+        "name": "final",
+        "a": "形容詞",
+        "description": "最終の"
+    },
+    {
+        "name": "find",
+        "a": "動詞",
+        "description": "検索する"
+    },
+    {
+        "name": "finish",
+        "a": "動詞",
+        "description": "終了する、完了する"
+    },
+    {
+        "name": "follow",
+        "a": "動詞",
+        "description": "従う、フォローする"
+    },
+    {
+        "name": "form",
+        "a": "名詞",
+        "description": "フォーム"
+    },
+    {
+        "name": "free",
+        "a": "形容詞",
+        "description": "空きの、無料の"
+    },
+    {
+        "name": "get",
+        "a": "動詞",
+        "description": "獲得する"
+    },
+    {
+        "name": "group",
+        "a": "名詞",
+        "description": "グループ"
+    },
+    {
+        "name": "health",
+        "a": "名詞",
+        "description": "ヘルス、正常性"
+    },
+    {
+        "name": "improve",
+        "a": "動詞",
+        "description": "改良する"
+    },
+    {
+        "name": "include",
+        "a": "動詞",
+        "description": "含む、インクルードする"
+    },
+    {
+        "name": "information",
+        "a": "名詞",
+        "description": "情報"
+    },
+    {
+        "name": "introduce",
+        "a": "動詞",
+        "description": "導入する、紹介する"
+    },
+    {
+        "name": "join",
+        "a": "動詞",
+        "description": "結合する"
+    },
+    {
+        "name": "key",
+        "a": "名詞",
+        "description": "キー"
+    },
+    {
+        "name": "language",
+        "a": "名詞",
+        "description": "言語"
+    },
+    {
+        "name": "later",
+        "a": "副詞",
+        "description": "あとで"
+    },
+    {
+        "name": "line",
+        "a": "名詞",
+        "description": "行、線"
+    },
+    {
+        "name": "list",
+        "a": "名詞／動詞",
+        "description": "リスト／一覧表示する"
+    },
+    {
+        "name": " make",
+        "a": "動詞",
+        "description": "作成する"
+    },
+    {
+        "name": "match",
+        "a": "動詞",
+        "description": "一致する"
+    },
+    {
+        "name": "menu",
+        "a": "名詞",
+        "description": "メニュー"
+    },
+    {
+        "name": "message",
+        "a": "名詞",
+        "description": "メッセージ"
+    },
+    {
+        "name": "model",
+        "a": "名詞",
+        "description": "モデル、型"
+    },
+    {
+        "name": "move",
+        "a": "動詞",
+        "description": "移動する"
+    },
+    {
+        "name": "name",
+        "a": "名詞",
+        "description": "名前"
+    },
+    {
+        "name": "next",
+        "a": "形容詞",
+        "description": "次の"
+    },
+    {
+        "name": "number",
+        "a": "名詞",
+        "description": "数"
+    },
+    {
+        "name": "object",
+        "a": "名詞",
+        "description": "オブジェクト、物体、対象"
+    },
+    {
+        "name": "open",
+        "a": "動詞／形容詞",
+        "description": "開く／開いた"
+    },
+    {
+        "name": "parent",
+        "a": "名詞",
+        "description": "親"
+    },
+    {
+        "name": "password",
+        "a": "名詞",
+        "description": "パスワード"
+    },
+    {
+        "name": "play",
+        "a": "動詞",
+        "description": "再生する"
+    },
+    {
+        "name": "post",
+        "a": "動詞／名詞",
+        "description": "書き込む／投稿"
+    },
+    {
+        "name": "prepare",
+        "a": "動詞",
+        "description": "準備する"
+    },
+    {
+        "name": "problem",
+        "a": "名詞",
+        "description": "問題"
+    },
+    {
+        "name": "product",
+        "a": "名詞",
+        "description": "製品、プロダクト"
+    },
+    {
+        "name": "read",
+        "a": "動詞",
+        "description": "読み取る"
+    },
+    {
+        "name": "return",
+        "a": "動詞",
+        "description": "戻す、返す"
+    },
+    {
+        "name": "rule",
+        "a": "名詞",
+        "description": "ルール、規則"
+    },
+    {
+        "name": "run",
+        "a": "動詞",
+        "description": "実行する"
+    },
+    {
+        "name": "section",
+        "a": "名詞",
+        "description": "セクション、部分"
+    },
+    {
+        "name": "see",
+        "a": "動詞",
+        "description": "見る"
+    },
+    {
+        "name": "send",
+        "a": "動詞",
+        "description": "送信する"
+    },
+    {
+        "name": "service",
+        "a": "名詞",
+        "description": "サービス"
+    },
+    {
+        "name": "set",
+        "a": "動詞",
+        "description": "設定する"
+    },
+    {
+        "name": "show",
+        "a": "動詞",
+        "description": "表示する"
+    },
+    {
+        "name": "size",
+        "a": "名詞",
+        "description": "大きさ"
+    },
+    {
+        "name": "software",
+        "a": "名詞",
+        "description": "ソフトウェア"
+    },
+    {
+        "name": "space",
+        "a": "名詞",
+        "description": "スペース、空白"
+    },
+    {
+        "name": "start",
+        "a": "動詞",
+        "description": "開始する"
+    },
+    {
+        "name": "statement",
+        "a": "名詞",
+        "description": "ステートメント、文"
+    },
+    {
+        "name": "stop",
+        "a": "動詞",
+        "description": "停止する"
+    },
+    {
+        "name": "style",
+        "a": "名詞",
+        "description": "スタイル"
+    },
+    {
+        "name": "test",
+        "a": "名詞／動詞",
+        "description": "テスト／テストする"
+    },
+    {
+        "name": "traffic",
+        "a": "名詞",
+        "description": "トラフィック、通信量"
+    },
+    {
+        "name": "tree",
+        "a": "名詞",
+        "description": "木、ツリー"
+    },
+    {
+        "name": "true",
+        "a": "形容詞",
+        "description": "正しい、真の"
+    },
+    {
+        "name": "use",
+        "a": "動詞／名詞",
+        "description": "使う／使用"
+    },
+    {
+        "name": "useful",
+        "a": "形容詞",
+        "description": "便利な"
+    },
+    {
+        "name": "user",
+        "a": "名詞",
+        "description": "ユーザー"
+    },
+    {
+        "name": "visit",
+        "a": "動詞",
+        "description": "訪問する、アクセスする"
+    },
+    {
+        "name": "wait",
+        "a": "動詞",
+        "description": "待機する"
+    },
+    {
+        "name": "website",
+        "a": "名詞",
+        "description": "ウェブサイト"
+    },
+    {
+        "name": "window",
+        "a": "名詞",
+        "description": "ウィンドウ"
+    },
+    {
+        "name": "write",
+        "a": "動詞",
+        "description": "書き込む"
+    },
+    {
+        "name": "you",
+        "a": "代名詞",
+        "description": "あなた、ユーザー"
+    },
+    {
+        "name": "your",
+        "a": "代名詞",
+        "description": "あなたの、ユーザーの"
+    }
+]

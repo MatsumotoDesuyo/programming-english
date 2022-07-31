@@ -1,7 +1,9 @@
 # programming-english
 プログラミング英語検定学習に使用するデータをいろいろ詰め合わせ。
 
-自分用に作りましたが、ご自由にお使いください。
+自分用に作りましたが、ライセンスの範囲内でご自由にお使いください。
+
+私はAnkiにインポートして使ってます。
 
 # License
 The content is licensed CC BY-NC-SA 4.0.

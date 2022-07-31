@@ -1,0 +1,282 @@
+[
+    {
+        "name": "addr",
+        "description": "addressの略"
+    },
+    {
+        "name": "admin",
+        "description": "administratorの略"
+    },
+    {
+        "name": "app",
+        "description": "applicationの略"
+    },
+    {
+        "name": "arg",
+        "description": "argumentの略"
+    },
+    {
+        "name": "args",
+        "description": "argumentsの略"
+    },
+    {
+        "name": "async",
+        "description": "asynchronization（非同期）の略"
+    },
+    {
+        "name": "attr",
+        "description": "attributeの略"
+    },
+    {
+        "name": "attrs",
+        "description": "attributesの略"
+    },
+    {
+        "name": "auth",
+        "description": "authorization（権限付与）、authenticationの略"
+    },
+    {
+        "name": "cert",
+        "description": "certified（認定された）、certificateの略"
+    },
+    {
+        "name": "char",
+        "description": "characterの略"
+    },
+    {
+        "name": "cmd",
+        "description": "commandの略"
+    },
+    {
+        "name": "config",
+        "description": "configurationの略"
+    },
+    {
+        "name": "conn",
+        "description": "connectionの略"
+    },
+    {
+        "name": "ctrl",
+        "description": "Controlキーの略"
+    },
+    {
+        "name": "cur",
+        "description": "current、cursorの略"
+    },
+    {
+        "name": "db",
+        "description": "databaseの略"
+    },
+    {
+        "name": "deps",
+        "description": "dependenciesの略"
+    },
+    {
+        "name": "dest",
+        "description": "destinationの略"
+    },
+    {
+        "name": "dev",
+        "description": "developer、developmentの略"
+    },
+    {
+        "name": "dict",
+        "description": "dictionaryの略"
+    },
+    {
+        "name": "diff",
+        "description": "differenceの略"
+    },
+    {
+        "name": "dir",
+        "description": "directoryの略"
+    },
+    {
+        "name": "doc",
+        "description": "documentの略"
+    },
+    {
+        "name": "enum",
+        "description": "enumerationの略"
+    },
+    {
+        "name": "env",
+        "description": "environmentの略"
+    },
+    {
+        "name": "err",
+        "description": "errorの略"
+    },
+    {
+        "name": "exec",
+        "description": "executionの略"
+    },
+    {
+        "name": "fn",
+        "description": "functionの略"
+    },
+    {
+        "name": "gen",
+        "description": "generationの略"
+    },
+    {
+        "name": "id",
+        "description": "identification、identifierの略"
+    },
+    {
+        "name": "idx",
+        "description": "indexの略"
+    },
+    {
+        "name": "impl",
+        "description": "implementationの略"
+    },
+    {
+        "name": "info",
+        "description": "informationの略"
+    },
+    {
+        "name": "init",
+        "description": "initializationの略"
+    },
+    {
+        "name": "int",
+        "description": "integerの略"
+    },
+    {
+        "name": "lib",
+        "description": "libraryの略"
+    },
+    {
+        "name": "max",
+        "description": "maximumの略"
+    },
+    {
+        "name": "min",
+        "description": "minimum、minuteの略"
+    },
+    {
+        "name": "msg",
+        "description": "messageの略"
+    },
+    {
+        "name": "num",
+        "description": "numberの略"
+    },
+    {
+        "name": "obj",
+        "description": "objectの略"
+    },
+    {
+        "name": "op",
+        "description": "operationの略"
+    },
+    {
+        "name": "ops",
+        "description": "operationsの略"
+    },
+    {
+        "name": "opts",
+        "description": "optionsの略"
+    },
+    {
+        "name": "param",
+        "description": "parameterの略"
+    },
+    {
+        "name": "params",
+        "description": "parametersの略"
+    },
+    {
+        "name": "pos",
+        "description": "positionの略"
+    },
+    {
+        "name": "prev",
+        "description": "previousの略"
+    },
+    {
+        "name": "prop",
+        "description": "propertyの略"
+    },
+    {
+        "name": "props",
+        "description": "propertiesの略"
+    },
+    {
+        "name": "ref",
+        "description": "referenceの略"
+    },
+    {
+        "name": "refs",
+        "description": "referencesの略"
+    },
+    {
+        "name": "regex",
+        "description": "regular expressionの略"
+    },
+    {
+        "name": "repo",
+        "description": "repositoryの略"
+    },
+    {
+        "name": "req",
+        "description": "requestの略"
+    },
+    {
+        "name": "res",
+        "description": "responseの略"
+    },
+    {
+        "name": "resp",
+        "description": "responseの略"
+    },
+    {
+        "name": "ret",
+        "description": "returnの略"
+    },
+    {
+        "name": "spec",
+        "description": "specificationの略"
+    },
+    {
+        "name": "src",
+        "description": "sourceの略"
+    },
+    {
+        "name": "str",
+        "description": "stringの略"
+    },
+    {
+        "name": "sync",
+        "description": "synchronization（同期）の略"
+    },
+    {
+        "name": "temp",
+        "description": "temporaryの略"
+    },
+    {
+        "name": "tmp",
+        "description": "temporaryの略"
+    },
+    {
+        "name": "usr",
+        "description": "userの略"
+    },
+    {
+        "name": "utils",
+        "description": "utilities（ユーティリティー）の略"
+    },
+    {
+        "name": "val",
+        "description": "valueの略"
+    },
+    {
+        "name": "var",
+        "description": "variableの略"
+    },
+    {
+        "name": "vars",
+        "description": "variablesの略"
+    }
+]
